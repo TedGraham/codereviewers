@@ -1,2 +1,2 @@
 # codereviewers
-Code Reviewers website
+Code Reviewers website hosted on GitHub
